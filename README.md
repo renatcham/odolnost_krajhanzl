@@ -105,6 +105,4 @@ Skill je syntézou komunikačních rámců z knihy *Odolnost: Komunikační prů
 
 ## Autorská práva a sdílení
 
-Obsah skillu je odvozený od publikace třetí strany. Před zveřejněním repozitáře ověřte, že máte souhlas autora nebo vydavatele, případně že licence publikace veřejné šíření takto odvozeného obsahu dovoluje. Bez takového oprávnění používejte soukromý repozitář a sdílejte ho pouze s oprávněnými spolupracovníky.
-
-Skill byl vytvořen pomocí projektu [book-to-skill](https://github.com/virgiliojr94/book-to-skill).
+Autor knihy - https://institut2050.cz/
